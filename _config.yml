@@ -1,11 +1,11 @@
 # Site settings
-author: Heeraj Ramsanai
-title: 
+author: Heeraj D Ramsanai
+title: My Software Engineering Journey
 header-img: img/home-bg.png
 email: ramsanai_heeraj@live.com
-copyright_name: Heeraj Ramsanai
+copyright_name: Heeraj D Ramsanai
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey as a beginner seeking a software engineer career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Heerajr
